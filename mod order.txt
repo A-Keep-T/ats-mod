@@ -1,0 +1,23 @@
+h    <put here the Background file(s)...> 1)
+h    Midwest Expansion (Beta) (filename: midwest_expansion_c2c_required.scs)
+h    ProMods Canada - Canadream Connection fix
+h    ProMods Canada - Canadream Connection
+h    ProMods Canada Definition Package (v1.0.2)
+h    ProMods Canada Map Package (v1.0.2)
+h    ProMods Canada Models Package (v1.0.2)
+h    ProMods Canada Assets Package (v1.0.2)
+h    Caribbean Map (v1.1.1)
+h    Island Map 0.1.5
+h    Reforma C2C Compatibility Patch v.8
+h    PMA 0.2.0.1 C2C Compatible file
+h    Montana Canadream RC
+h    Montana Expansion (v1)
+h    Canadream v2.41
+h    Coast to Coast v2.11.15
+h    Radiator Springs Map add-on (v1.3)
+h    Grand Canyon Rebuild (v1.3)
+h    US 24 Extension V1.3.1
+h    Project Better Arizona 0.1 for Reforma Map
+h    Reforma 2.1.8
+h    def route alaska v 1.1.1
+h    map route alaska v 1.1.1
